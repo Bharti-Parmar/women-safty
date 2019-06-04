@@ -11,10 +11,7 @@ Boostrap 4, php, javaScript, css, html
           ⦁	Processor: higher
           ⦁	RAM: 256 Mb or more
           ⦁	Hard Drive: 10 GB or more
-          ⦁	WAMP Server /
-          XAMPP Server /
-          MAMP Server /
-          LAMP Server
+          ⦁	WAMP Server / XAMPP Server / MAMP Server / LAMP Server
 
       # Client side:
           ⦁	Operating System: Windows 8.2 or above, MAC or UNIX.
