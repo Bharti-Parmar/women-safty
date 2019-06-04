@@ -1,0 +1,11 @@
+.circle{
+	width:100%;
+	border-radius:50%;
+	background:red;
+}
+
+.circle:after{
+	content:'';
+	padding-bottom:100%;
+	display:block;
+}

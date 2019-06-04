@@ -1,0 +1,17 @@
+
+.form input[type=name],.form input[type=pwd],.form input[type=email],.form input[type=address1],
+.form input[type=address2],.form input[type=address3],.form input[type=confirm_password],
+.form input[type=designation]{
+    width: 80%;
+    padding: 10px;
+    margin-top:16px;
+    border: none;
+    border-radius:5px;
+    background: #f1f1f1;
+}
+
+.btn{padding:7px 25px;
+	margin:25px 0px;
+}
+
+

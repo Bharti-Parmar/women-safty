@@ -1,0 +1,37 @@
+
+* {
+    box-sizing: border-box;
+}
+
+
+
+p{
+    font-size: 30px;
+    padding:40px;
+    font-style: san-serif;
+    
+}
+
+
+
+.modal-body input[type=name], .modal-body input[type=pwd], 
+.modal-body input[type=contact], .modal-body input[type=p_contact], 
+.modal-body input[type=address1], .modal-body input[type=address2], .modal-body input[type=address3], 
+.modal-body input[type=email], .modal-body input[type=designation]{
+    width: 80%;
+    padding: 10px;
+    margin-top:16px;
+    border: none;
+    border-radius:5px;
+    background: #f1f1f1;
+}
+
+.btn{padding:7px 25px;
+	margin:25px 0px;
+}
+
+@media screen and (max-width:500px){
+	.bacimg{background-image:none;
+	background-repeat:none;
+	background-size: none;
+}

@@ -1,0 +1,23 @@
+#danger input[type=ps_name],#danger input[type=text],#danger input[type=number]{
+    width: 80%;
+    padding: 10px;
+    margin-top:16px;
+    border: none;
+    border-radius:5px;
+    background: #f1f1f1;
+}
+
+
+#myModal1 input[type=name],#myModal1 input[type=text],#myModal1 input[type=number]{
+    width: 80%;
+    padding: 10px;
+    margin-top:16px;
+    border: none;
+    border-radius:5px;
+    background: #f1f1f1;
+}
+
+.btn{padding:7px 25px;
+	margin:25px 0px;
+}
+
