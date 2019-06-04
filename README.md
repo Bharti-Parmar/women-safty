@@ -55,25 +55,23 @@ Police of the system:
 # Screenshots
 
 # 1
-![alt text](https://github.com/Bharti-Parmar/Dentist/blob/master/Screenshot%20(67).png)
+![alt text](https://github.com/Bharti-Parmar/women-safty/blob/master/Screenshot%20(56).png)
 # 2
-![alt text](https://github.com/Bharti-Parmar/Dentist/blob/master/Screenshot%20(66).png)
+![alt text](https://github.com/Bharti-Parmar/women-safty/blob/master/Screenshot%20(57).png)
 # 3
-![alt text](https://github.com/Bharti-Parmar/Dentist/blob/master/Screenshot%20(68).png)
+![alt text](https://github.com/Bharti-Parmar/women-safty/blob/master/Screenshot%20(58).png)
 # 4
-![alt text](https://github.com/Bharti-Parmar/Dentist/blob/master/Screenshot%20(69).png)
+![alt text](https://github.com/Bharti-Parmar/women-safty/blob/master/Screenshot%20(59).png)
 # 5
-![alt text](https://github.com/Bharti-Parmar/Dentist/blob/master/Screenshot%20(70).png)
+![alt text](https://github.com/Bharti-Parmar/women-safty/blob/master/Screenshot%20(60).png)
 # 6
-![alt text](https://github.com/Bharti-Parmar/Dentist/blob/master/Screenshot%20(71).png)
+![alt text](https://github.com/Bharti-Parmar/women-safty/blob/master/Screenshot%20(61).png)
 # 7
-![alt text](https://github.com/Bharti-Parmar/Dentist/blob/master/Screenshot%20(72).png)
+![alt text](https://github.com/Bharti-Parmar/women-safty/blob/master/Screenshot%20(62).png)
 # 8
-![alt text](https://github.com/Bharti-Parmar/Dentist/blob/master/Screenshot%20(73).png)
+![alt text](https://github.com/Bharti-Parmar/women-safty/blob/master/Screenshot%20(63).png)
 # 9
-![alt text](https://github.com/Bharti-Parmar/Dentist/blob/master/Screenshot%20(74).png)
-# 10
-![alt text](https://github.com/Bharti-Parmar/Dentist/blob/master/Screenshot%20(75).png)
+![alt text](https://github.com/Bharti-Parmar/women-safty/blob/master/Screenshot%20(64).png)
 
 # Future Scope
 “This Application can easily support any browser. Various updates can be performed in this forum in coming future. This application will result in minimizing the cases related to women’s safety. This application provide security to all the women’s which results in an easy way provide a security to all the women’s and they can travel, do their job, internship and study without any fear.
