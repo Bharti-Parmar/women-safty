@@ -38,9 +38,9 @@ Following is a list of functionality of the system. More functionality that you 
 
 Women’s of the system:
       Women’s can do the following task:
-1.Women’s need to register.
-2.Women’s need to login when she is going.
-3.Women’s need internet connection for the use of this app.
+            1.Women’s need to register.
+            2.Women’s need to login when she is going.
+            3.Women’s need internet connection for the use of this app.
 
 Admin of the system:
       Admin can do the following task:
