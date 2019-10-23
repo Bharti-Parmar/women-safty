@@ -71,4 +71,4 @@ Police of the system:
 ![alt text](https://github.com/Bharti-Parmar/women-safty/blob/master/Screenshot%20(64).png)
 
 # Future Scope
-“This Application can easily support any browser. Various updates can be performed in this forum in coming future. This application will result in minimizing the cases related to women’s safety. This application provide security to all the women’s which results in an easy way provide a security to all the women’s and they can travel, do their job, internship and study without any fear.
+“This Application can easily support any browser. Various updates can be performed in this forum in coming future. This application will result in minimizing the cases related to women’s safety. This application provide security to all the women’s which results in an easy way provide a security to all the women’s and they can travel, do their job, internship and study without any fear. 
